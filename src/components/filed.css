@@ -1,0 +1,9 @@
+.filed{
+    width: 40%;
+    min-height: 200px;
+    max-height: fit-content;
+    border: 5px solid black;
+    position: relative;
+    top:80px
+
+}
